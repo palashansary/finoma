@@ -1,6 +1,6 @@
 # Finoma - Finance Management App
 
-![Finoma Logo](./projectFinoma.png)
+![Finoma Logo](projectFinoma.png)
 
 Finoma is a finance management app that allows users to efficiently manage their expenses. It provides features for adding, updating, deleting, and tracking expenses, helping users take control of their finances.
 
