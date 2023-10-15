@@ -1,0 +1,6 @@
+@tailwind base;
+
+@tailwind components;
+@tailwind utilities;
+
+/* Define custom CSS classes using @layer */
