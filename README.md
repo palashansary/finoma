@@ -6,7 +6,7 @@ Finoma is a finance management app that allows users to efficiently manage their
 
 ## App Link
 
-🚀 You can access the app here: [Finoma - Finance Management App](https://finomanxtgen.web.app)
+🚀 You can access the app here: [Finoma - Finance Management App](finomanxtgen.web.app)
 
 ## Tech Stack
 
