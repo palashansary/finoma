@@ -1,8 +1,37 @@
-# React + Vite
+# Finoma - Finance Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Finoma Logo](https://example.com/finoma-logo.png)
 
-Currently, two official plugins are available:
+Finoma is a finance management app that allows users to efficiently manage their expenses. It provides features for adding, updating, deleting, and tracking expenses, helping users take control of their finances.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## App Link
+
+🚀 You can access the app here: [Finoma - Finance Management App](https://finomanxtgen.web.app)
+
+## Tech Stack
+
+The app is built using the following technologies and libraries:
+
+- **React.js**: A popular JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for building responsive and modern web designs.
+- **Redux Toolkit**: A state management library for managing the application's state.
+- **Firebase**: A platform that provides various tools and services for building and managing web and mobile applications.
+- **Formik**: A library for building forms in React applications with ease.
+
+## Features
+
+✨ **Expense Management**: Easily add, update, and delete expenses.
+
+💰 **Expense Tracking**: Keep track of your expenses to stay within your budget.
+
+🌟 **User-Friendly Interface**: A clean and intuitive user interface for a seamless experience.
+
+## Installation
+
+To run the app locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/finoma-app.git
+   cd finoma-app
